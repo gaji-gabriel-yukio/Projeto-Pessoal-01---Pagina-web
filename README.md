@@ -6,3 +6,5 @@
 Quero construir nesse página web, algo como se fosse um curriculo, ainda não sei muito bem o que vou fazer, mas tenho ideias de acrescer um desing nela, acrescentando informações sobre mim, meu gitgub e mais coisas que ainda não sei.
 
 Por enquanto é isso.
+
+Oi! Eu do Not aqui.
